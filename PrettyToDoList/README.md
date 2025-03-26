@@ -3,7 +3,7 @@
 Welcome to my **React Native To-Do List App**!  
 This is a fun little productivity app (with an aesthetic theme) that helps you keep track of your daily tasks — built entirely using React Native and `react-native-paper` for some sleek icons.
 
-> ⚠️ **Note:** This app is still a work-in-progress! Updates and new features are actively being developed.
+> ⚠️ **Note:** Updates and new features are actively being developed.
 
 ---
 
@@ -22,6 +22,7 @@ Here’s what the app currently does:
 ## ✍️ Features Coming Soon
 
 - ✏️ **Edit Tasks**: The **pencil** icon is already in place — just needs to be wired up! You'll be able to tap it to edit an existing task.
+- 🗂️ **Config folder**: Implement **colors.js** to have a reference to all the colors used in this application, making the application modular and adaptable. 
 - 📲 **Better UI/UX**: More polish, animations, and better styling.
 - 🎨 **Theme Toggle**: Maybe a light/dark mode?
 
@@ -54,11 +55,11 @@ This is what you see when you first open the app/haven't any items to the list y
 
 
 #### Once you have added tasks, you may mark them as Completed(check mark) or Delete them (delete icon).
-<div style="display: flex; gap: 200px;">
+<p>
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image3.png" width="250"> 
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image4.png" width="250"> 
   
-</div>
+</p>
 
 ** Video Demo Coming Soon...
 
