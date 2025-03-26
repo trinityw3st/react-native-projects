@@ -54,7 +54,7 @@ This is what you see when you first open the app/haven't any items to the list y
 
 
 #### Once you have added tasks, you may mark them as Completed(check mark) or Delete them (delete icon).
-<div style="display: flex; gap: 50px;">
+<div style="display: flex; gap: 200px;">
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image3.png" width="250"> 
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image4.png" width="250"> 
   
