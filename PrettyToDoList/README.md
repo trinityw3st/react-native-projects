@@ -40,12 +40,13 @@ Here’s what the app currently does:
 
 ## 📸 Screenshots / Demo
 
-### Initial View:
+#### Initial View:
 This is what you see when you first open the app/haven't any items to the list yet
+(./AppScreenshots/Image1.png)
 
-### Add Tasks to the List by Writing in the Text Input Box and then the "Add" Button:
+#### Add Tasks to the List by Writing in the Text Input Box and then the "Add" Button:
 
-### Once you have added tasks, you may mark them as Completed(check mark) or Delete them (delete icon).
+#### Once you have added tasks, you may mark them as Completed(check mark) or Delete them (delete icon).
 
 
 ** Coming Soon....
