@@ -42,8 +42,8 @@ Here’s what the app currently does:
 
 #### Initial View:
 This is what you see when you first open the app/haven't any items to the list yet
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image1.png" width="175"> 
+<p>
+  <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image1.png" width="250"> 
 </p>
 
 #### Add Tasks to the List by Writing in the Text Input Box and then the "Add" Button:
