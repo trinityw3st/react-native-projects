@@ -44,21 +44,21 @@ Here’s what the app currently does:
 This is what you see when you first open the app/haven't any items to the list yet
 <p>
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image1.png" width="250"> 
-</p>
+</p> <br>
 
-<br>
+
 #### Add Tasks to the List by Writing in the Text Input Box and then the "Add" Button:
 <p>
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image2.png" width="250"> 
-</p>
+</p> <br>
 
-<br>
+
 #### Once you have added tasks, you may mark them as Completed(check mark) or Delete them (delete icon).
 <div style="display: flex; gap: 20px;">
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image3.png" width="250"> 
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image4.png" width="250"> 
   
-<div/>
+</div>
 
 ** Video Demo Coming Soon...
 
