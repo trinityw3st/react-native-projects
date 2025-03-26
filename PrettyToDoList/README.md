@@ -45,8 +45,8 @@ This is what you see when you first open the app/haven't any items to the list y
 <p>
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image1.png" width="250"> 
 </p>
-
-
+\n
+\n
 #### Add Tasks to the List by Writing in the Text Input Box and then the "Add" Button:
 <p>
   <img src="https://raw.githubusercontent.com/trinityw3st/react-native-projects/main/PrettyToDoList/AppScreenshots/Image2.png" width="250"> 
@@ -60,7 +60,7 @@ This is what you see when you first open the app/haven't any items to the list y
   
 </p>
 
-** Coming Soon....
+** Video Demo Coming Soon...
 
 
 
