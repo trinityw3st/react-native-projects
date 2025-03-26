@@ -2,6 +2,7 @@
 
 Welcome to my **React Native To-Do List App**!  
 This is a fun little productivity app (with an aesthetic theme) that helps you keep track of your daily tasks — built entirely using React Native and `react-native-paper` for some sleek icons.
+See below for screenshots of the app display. 
 
 > ⚠️ **Note:** Updates and new features are actively being developed.
 
